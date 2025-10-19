@@ -1,1 +1,1 @@
-# Ditto_page
+# The Demo Page of Ditto
